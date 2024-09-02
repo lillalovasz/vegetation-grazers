@@ -1,0 +1,401 @@
+year	season	plot_nr	total_cover	cover_moss	height1_1	height1_2	height1_3	height1_4	height1_5	height1_6	height1_7	height1_8	height1_9	height1_10	height2_1	height2_2	height2_3	height2_4	height2_5	height2_6	height2_7	height2_8	height2_9	height2_10	species1	species2	species3	cover-sp1	cover-sp2	cover-sp3	cut_y_n	grazed_y_n
+2018	summer	A01	90	15	13.5	4.5	6.5	14	29	1.5	62	11.5	9.5	6	17	4.5	6	13.5	4.5	32	41.5	3.5	19	13	Agrostis stolonifera	Festuca arundinacea	Festuca ovina	40	10	10	N	N
+2018	summer	A02	85	5	12.5	0	7.5	0	9.5	21	30.5	0	12	4.5	28.5	12.5	0	6	12.5	42.5	18.5	0	0	3.5	Festuca ovina	Trifolium campestre	Solidago gigantea	25	10	1	N	N
+2018	summer	A03	50	0	23	6.5	0	59	0	11.5	0	19	21	17.5	57.5	4.5	6	0	6.5	0	0	62	1.5	9	Trifolium repens	Festuca arundinacea	Carex flacca 	25	10	5	N	N
+2018	summer	A04	90	5	24	12.5	29	50.5	2	12.5	2	29.5	35	11	41.5	10	34	40.5	19	27.5	7.5	8.5	13	29.5	Trifolium repens	Festuca arundinacea	Carex flacca 	40	25	10	N	N
+2018	summer	A05	80	10	23.5	12.5	10.5	17.5	8.5	14	22	26.5	0	10.5	14.5	21.5	7.5	6.5	46	17	0.5	18	25.5	0	Agrostis stolonifera	Erigeron annuus	Galium mollugo	25	10	1	N	N
+2018	summer	A06	90	10	0	2	3.5	21.5	4.5	22	7.5	5	16.5	9.5	11.5	3.5	4	12.5	58.5	25	13	21.5	3.5	1.5	Pulicaria dysenterica	Agrostis stolonifera	Odontites rubra	70	25	5	N	N
+2018	summer	A07	95	5	56.5	2.5	6	14	19.5	17.5	41	30.5	1.5	12	0	1.5	6	18.5	16	17	6.5	4.5	0	21.5	Festuca ovina	Solidago gigantea	Trifolium campestre	40	25	10	N	N
+2018	summer	A08	80	0	9	32.5	24.5	16	73.5	7	8.5	23	19	4.5	3	13	15	12.5	0.5	19	15.5	7.5	29	28.5	Festuca ovina	Bromus hordaeceus	Centaurium erythraea	25	10	5	N	N
+2018	summer	A09	100	5	4	0	18.5	2	10.5	11.5	21.5	0	11	2.5	11	12.5	7.5	21.5	21	25	7	0	1.5	0	Festuca ovina	Seculigera varia	Hypericum perforatum	85	10	1	N	N
+2018	summer	A10	85	0	4	0	26.5	19	18.5	7.5	6	1.5	3	0.5	0	27	24.5	55.5	16	24.5	12	2.5	34.5	10	Festuca ovina	Echium vulgare	Rubus caesius	40	10	10	N	N
+2018	summer	A11	80	0	19	11.5	27	11	28	79	75	23.5	48	21.5	6.5	18	5.5	53	7.5	3	0	17.5	20	0	Festuca ovina	Tussilagi farfara	Solidago gigantea	40	25	5	N	N
+2018	summer	A12	85	0	0	47	30	0	NA	NA	105	40	32	54	0	0	64	50	NA	76	24.5	0	0	0	Calamagrostis epigeios	Phragmites communis	Pulicaria dysenterica	70	10	5	N	N
+2018	summer	A13	70	0	4	15.5	22.5	31	5	0	10.5	0	0	0	10	0	7.5	4.5	0	3	14.5	7	10.5	2	Festuca ovina	Bromus hordaeceus	Picris hieracioides	40	10	1	N	N
+2018	summer	A14	85	0	44	34	9.5	15.5	47.5	42	40.5	28	26.5	41	40.5	18.5	27.5	22.5	44.5	16.5	16	16.5	39.5	15.5	Calamagrostis epigeios	Plantago major	NA	70	10	NA	N	N
+2018	summer	A15	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2018	summer	A16	35	0	17	21.5	5.5	0	11.5	28	35.5	0	0	58.5	6	0	26.5	0	17	11.5	29.5	6.5	47	55	Rubus caesius	Solidago gigantea	Petroraghia prolifera	25	10	1	N	N
+2018	summer	A17	100	10	54.5	0	38	109	8.5	120	6	52	95	60	44.5	10	65	15	7	57	96	0	56.5	89.5	Calamagrostis epigeios	Solidago gigantea	Pulicaria dysenterica	80	15	5	N	N
+2018	summer	A18	90	0	0	18.5	13	6	34	26.5	18.5	16	29	17	20	19.5	34.5	17	30.5	23.5	7.5	42	5	30.5	Agrostis gigantea	Elymus pungens	Solidago gigantea	40	25	20	N	N
+2018	summer	A19	90	0	31	20.5	0	34.5	44	64.5	57	43.5	0	48	5	54.5	44	39.5	42	0	69	61.5	16.5	45.5	Elymus pungens	Solidago gigantea	Seculigera varia	40	25	10	N	N
+2018	summer	A20	80	0	15.5	20.5	22	7	12	9.5	0	0	14	24.5	13	5.5	12.5	0	23.5	18	0	8.5	2	16.5	Agrostis stolonifera	Dactylis glomerata	Seculigera varia	40	25	10	N	N
+2018	summer	A21	80	0	21.5	45	19	7	12.5	55	24	18	2	7.5	22	19	13.5	23	18.5	16.5	0	12	11	12.5	Agrostis stolonifera	Erigeron annuus	Seculigera varia	40	10	5	N	N
+2018	summer	A22	40	30	0	0	0	22	53	0	0	10	0	0	0	48	0	0	0	0	0	12	0	0	Erigeron annuus	Trifolium campestre	Plantago lanceolata	10	1	1	N	N
+2018	summer	A23	8	5	0	6	0	5	7	0	0	10	3	0	0	0	6	3	5	0	0	0	13	0	Erigeron annuus	Arenaria serpyllifolia	Hypericum perforatum	1	1	1	N	N
+2018	summer	A24	30	10	4	1	0	0	0	11	29	0	0	22	21	38	2	36	2	0	16	0	0	7	Erigeron annuus	Festuca ovina	Petroraghia prolifera	10	5	5	N	N
+2018	summer	A25	40	0	26	0	0	0	0	0	10	62	5	43	0	0	17	22	18	0	5	0	0	0	Agrostis gigantea	Lycopus europaeus	Mentha aquatica	25	5	1	N	N
+2018	summer	A26	60	0	16	23	13	7	19	17	16	19	23	34	19	30	82	0	0	11	19	36	31	26	Festuca pratensis	Equisetum arvense	Solidago gigantea	50	5	1	N	N
+2018	summer	A27	40	0	0	0	0	9	15	20	0	24	0	4	4	0	0	0	12	10	18	66	0	29	Seculigera varia	Festuca ovina	Populus nigra	25	10	5	N	N
+2018	summer	A28	85	0	0	111	26	12	140	76	59	99	65	0	70	0	95	105	52	113	7	0	75	0	Salix rubens	Populus nigra	Solidago gigantea	40	25	10	N	N
+2018	summer	A29	90	0	14	3	24	56	58	36	25	22	40	0	11	42	41	49	29	13	30	25	20	11	Festuca rubra	Seculigera varia	Festuca ovina	45	35	20	N	N
+2018	summer	A30	70	0	0	20	7	60	12	9	0	13	11	9	27	9	10	4	34	0	12	27	14	7	Festuca ovina	Festuca rubra	Sanguisorba minor	25	25	10	N	N
+2018	summer	A31	50	0	22	26	7	33	0	0	56	49	72	20	4	64	52	47	17	51	59	38	52	63	Erigeron annuus	Solidago gigantea	Festuca ovina	25	10	5	N	N
+2018	summer	A32	80	20	7	9	53	6	0	52	37	8	6	0	13	6	9	15	6	45	6	5	7	0	Populus alba	Trifolium campestre	Erigeron annuus	40	25	5	N	N
+2018	summer	A33	25	10	0	0	0	5	0	0	0	47	0	0	0	17	32	0	26	0	0	19	0	0	Erigeron annuus	Trifolium campestre	Salix purpurea	5	1	1	N	N
+2018	summer	A34	75	0	0	7	24	11	0	62	8	0	0	0	41	46	74	0	0	21	11	0	0	0	Seculigera varia	Festuca rubra	Melilotus albus	50	25	20	N	N
+2018	summer	A35	85	0	17	21	33	0	0	71	134	63	118	22	73	23	11	12	16	12	38	39	7	18	Dactylis glomerata	Rubus caesius	Festuca ovina	25	25	10	N	N
+2018	summer	A36	60	10	5	27	0	34	21	0	0	7	2	3	22	7	4	9	0	8	6	12	22	32	Seculigera varia	Festuca ovina	Populus nigra	25	10	10	N	N
+2018	summer	A37	90	0	38	25	26	65	25	9	17	52	30	14	13	41	22	22	17	0	91	22	101	85	Bromus erectus	Centaurea jacea	Festuca ovina	40	25	10	N	N
+2018	summer	A38	50	0	25	0	0	29	0	3	1	0	4	82	26	6	12	7	24	23	0	16	4	0	Plantago lanceolata	Festuca rubra	Seculigera varia	25	10	10	N	N
+2018	summer	A39	100	0	0	11	16	15	48	51	21	16	18	16	20	115	104	24	36	48	34	48	26	24	Dactylis glomerata	Galium mollugo	Festuca arundinacea	70	25	10	N	N
+2018	summer	A40	100	0	42	37	56	116	122	41	53	26	17	10	22	39	34	50	83	47	26	22	37	12	Seculigera varia	Festuca arundinacea	Amorpha sp	70	20	10	N	N
+2018	summer	A41	65	0	11	0	21	55	0	9	0	5	15	22	4	0	0	0	23	0	12	0	0	0	Festuca ovina	Festuca arundinacea	Sanguisorba minor	25	25	10	N	N
+2018	summer	A42	50	20	12	14	9	0	8	8	7	4	0	29	0	27	41	0	6	13	5	0	4	0	Festuca ovina	Agrostis stolonifera	Plantago lanceolata	25	10	5	N	N
+2018	summer	A43	30	5	12	0	11	14	3	0	18	0	13	13	20	5	6	9	17	8	0	13	22	4	Seculigera varia	Festuca ovina	Medicago lupulina	25	10	1	N	N
+2018	summer	A44	70	10	0	0	10	0	18	52	3	11	0	21	0	9	58	0	0	0	20	38	51	0	Festuca ovina	Festuca arundinacea	Seculigera varia	40	10	5	N	N
+2018	summer	A45	50	0	0	0	28	0	0	0	10	0	53	64	32	16	0	45	39	0	0	2	32	0	Solidago gigantea	Erigeron annuus	Agrostis gigantea	25	10	10	N	N
+2018	summer	A46	10	2	0	6	18	0	0	0	11	0	0	2	10	8	0	13	0	26	0	11	0	0	Populus nigra	Argrostis stolonifera	Silene vulgaris	5	1	1	N	N
+2018	summer	A47	65	5	5.5	0	8	23	23	0	31	0	13	1	24	12	15	23.5	82	0	24	12.5	5	0	Festuca ovina	Festuca pratensis	Seculigera varia	40	10	10	N	N
+2018	summer	A48	100	0	52	53	22	76	29	40	35	33.5	46	8	36	4.5	11	37	6	60	38	29	104	70	Calamagrostis epigeios	Carex sp	Tussilago farfara	70	25	10	N	N
+2018	summer	A49	100	0	93.5	102	13	142	84	152	90	80	12	6.5	108.5	106	100	105	138.5	108.5	148.5	101	59	95.5	Solidago gigantea	Amorpha sp	Erigeron annuus	90	5	1	N	N
+2018	summer	A50	40	2	15	0	6	0	40	10.5	36.5	0	0	5.5	16.5	11	14	39	11.5	11	15	0	0	2.5	Festuca ovina	Centaurea jacea	Festuca pratensis	25	10	5	N	N
+2018	summer	A51	75	0	2	0	0	10	6.5	0	3	8.5	20	22.5	6	8	0	9	16.5	5	4	7.5	9	6.5	Trifolium campestre	Agrostis gigantea	Populus alba	70	20	10	N	N
+2018	summer	A52	70	0	2	21	45.5	8	23.5	14	0	15.5	0	6.5	7.5	20	16.5	6	23	10	13	0	0	0	Calamagrostis epigeios	Populus alba	Erigeron annuus	40	25	25	N	N
+2018	summer	A53	85	20	40	0	80	22	14.5	98.5	22.5	16	15	0	9	0	26	28	5.5	30	79.5	67	0	10.5	Erigeron annuus	Plantago lanceolata	Festuca ovina	25	10	1	N	N
+2018	summer	A54	20	0	1.5	8.3	0	0	0	4.5	0	1.5	0	4.5	0	0	1.5	4.5	0	0	52	12	0	2	Erigeron annuus	Solidago gigantea	Populus nigra	10	5	1	N	N
+2018	summer	A55	85	0	28	7.5	1.5	12	24	17.5	0	4.5	11	6	15	10.5	30.5	0	28.5	0	0	5.5	7	10.5	Carex flacca	Seculigera varia	Trifolium campestre	40	10	10	N	N
+2018	summer	A56	60	0	20.5	18	33.5	7.5	4	3	1.5	0	1	18	9.7	0	0	25.5	0	12.5	0	0	21.5	6.5	Festuca ovina	Calamgrostis epigeios	Rubus caesius	25	10	10	N	N
+2018	summer	A57	15	0	7	0	0	0	1.5	0	18.5	22	5.5	0	13.5	8	11	35.5	0	0	7.5	43	31.5	0	Populus nigra	Festuca ovina	Carex flacca 	10	5	1	N	N
+2018	summer	A58	80	0	7	28	12.5	2	15	6	11.5	0	1.5	2	9.5	7.8	0	4	8.5	58.5	18.5	0	21	0	Salix rubens	Festuca arundinacea	NA	70	10	5	N	N
+2018	summer	A59	70	0	13.5	6.5	2.5	77.5	4.5	109.5	55	12.5	0	4.5	33.5	28	28.5	47.5	84	105	67.5	48	11	52	Solidago gigantea	Festuca ovina	Bromus hordaeceus	25	10	10	N	N
+2018	summer	A60	60	0	0	0	0	0	112	48	101.5	107	0	0	17	108	9.5	0	0	0	20	0	106	0	Solidago gigantea	Cirsium sp	Calamagrostis epigeios	0	1	1	N	N
+2018	summer	A61 	80	0	18.5	0	14.5	0	83.5	41.5	0	25.5	17	10	12	36	0	49.5	37.5	0	0	80.5	0	21.5	Solidago gigantea	Clematis vitalba	Bromus erectus	40	25	5	N	N
+2018	summer	A62  	90	10	32	0	0	73.5	8	20	10.5	0	68	0	18.5	19	30.5	0	46.5	21	42.5	18.5	0	39	Juncus effusus	Carex flacca	Solidago gigantea	70	20	5	N	N
+2018	summer	A63  	20	10	8	4	0	40	45	0	40	0	0	5.5	48	0	0	0	0	0	46.5	0	0	0	Erigeron annuus	Solidago gigantea	Populus nigra	10	5	1	N	N
+2018	summer	A64  	90	10	88	77.5	99	87.5	78	0	52	84	0	101	78	93	82	22	17	85	106	64	109	82	Solidago gigantea	Cirsium sp	Pulicaria dysenterica	90	5	1	N	N
+2018	summer	A65  	60	3	13	42	6	0	7	4.5	10	2	21.5	0.5	0	0	10	38	9	4.2	0	7	3	19	Calamagrostis epigeios	Solidago gigantea	Populus nigra	25	10	1	N	N
+2018	summer	A66  	80	5	15	52	3	15.5	48.5	42	0	10	7	0	15	19	14.5	32	43	29	32.5	0	0	10	Festuca ovina	Bromus hordaeceus	Populus nigra	70	10	1	N	N
+2018	summer	A67  	70	5	16	19.5	23	0	6	77	24.5	77	7.5	0	27	18.5	12	5.5	20.5	10	0	26.5	5	0	Bromus erectus	Origanum vulgare	Festuca ovina	25	10	10	N	N
+2018	summer	A68  	85	5	22	28	27.5	37.5	30.5	7	21.5	13	8	2	9	10	0	18.5	0	13	27.5	8.5	5.5	0	Trifolium campestre	Solidago gigantea	Equisetum arvense	40	10	5	N	N
+2018	summer	A69	95	0	4	29	24.5	32	9	7	31.5	45	60	29	30	25.5	22	0	125	6	65	10	0	22	Pulicaria dysenterica	Solidago gigantea	Erigeron annuus	25	25	10	N	N
+2018	summer	A70	100	0	62	39	22	0	97	46	79	86	47	33	67	87	83	59	50	94	104	67.5	0	89	Melilotus albus	Vicia cracca	Erigeron annuus	40	40	20	N	N
+2018	summer	A71	85	0	9	23	38.5	40	60.5	63.5	32	59	26	5.5	29	38	0	26	62	46.5	26	18.5	59	0	Solidago gigantea	Equisetum arvense	Calamagrostis epigeios	40	25	5	N	N
+2018	summer	A72	90	5	2.5	12	5	10	9	11	35.5	36	5	19	49	7	48.5	26.5	4	11	42.5	0	66	4.5	Erigeron annuus	Festuca ovina	Populus nigra	25	25	5	N	N
+2018	summer	A73	90	0	0	0	26.5	12	3.5	0	15.5	20.5	0	12	10	15	16	0	5	0	22	34	0	12	Rubus caesius	Bromus hordaeceus	NA	40	25	10	N	N
+2018	summer	A74	90	0	8.5	22	19.5	8	50.5	15	41.5	19	5	61.5	15.5	23.5	58	55	9.5	14	0	7	56.5	11	Festuca ovina	Erigeron annuus	Equisetum arvense	40	10	5	N	N
+2018	summer	A75	85	0	19.5	2.5	28	111.5	12.8	26	25.5	17	12	52	10	12.5	27.5	89	110	56	12	23	34	0	Erigeron annuus	Ranunculus sp	Solidago gigantea	40	10	5	N	N
+2018	summer	A76	95	5	32.5	34	38	14	78.5	13	15.5	27	9.5	15.5	27	13	8	NA	64	20	18.5	19.5	7	29.5	Festuca ovina	Vicia cracca	Daucus carota	40	10	5	N	N
+2018	summer	A77	95	5	15	4	59.5	26	17.5	37	18	51.5	53	4.5	13.5	21	6.5	10.5	40	20.5	65	31	71	0	Seculigera varia	Festuca ovina	Rubus caesius	40	40	5	N	N
+2018	summer	A78	95	0	16	15	6	5.5	0	46.5	14.2	52.7	6	8.5	14	50	8	28.5	14	40	42.5	62	0	7	Origanum vulgare	Rubus caesius	Festuca ovina	40	25	25	N	N
+2018	summer	A79	95	5	14	31	17	16	37	34.5	41	15	8	2.5	51.5	10	25	53	35	43	12	22.5	11	2	Festuca ovina	Echyum vulgare	Erigeron annuus	70	5	5	N	N
+2018	summer	A80	25	0	11.5	0	10.5	0	0	0	0	0	0	16.5	6	0	0	6.5	9.5	0	0	11	8	12.5	Medicago lupulina	Carex sp	Solidago gigantea	10	5	5	N	N
+2019	summer	A01	95	0	11.5	6.5	0	10.5	6.5	5.5	5.0	0	0	9.8	0	11.0	13.5	0	3.0	9.5	12.5	12.0	0	5.0	Agrostis stolonifera 	Festuca ovina	Plantago lanceolata 	40	15	5	N	Y
+2019	summer	A02	90	20	5.0	4.5	5.5	9.0	5.0	2.5	3.0	3.0	9.0	8.0	6.0	2.0	4.0	7.0	3.0	3.0	4.0	6.0	5.5	2.0	Festuca ovina 	Medicago lupulina 	Clematis vitalba 	40	20	20	N	Y
+2019	summer	A03	60	0	44.0	12.0	59.0	7.0	46.5	13.5	12.0	11.0	8.5	10.0	5.0	10.0	11.0	8.5	10.0	0	2.5	0	25.5	2.5	Festuca ovina 	Bromus hordaceous	Medicago lupulina 	30	5	5	N	Y
+2019	summer	A04	50	0	3.0	7.0	6.0	0	4.0	0	6.5	4.5	0.5	2.0	4.0	2.0	4.0	7.0	0	0	7.0	68.0	0	0	Festuca ovina 	Medicago lupulina 	Solidago gigantea 	7	15	15	N	Y
+2019	summer	A05	70	5	21.5	12.0	10.5	19.0	2.0	11.0	1.0	5.0	4.0	0	10.0	9.5	10.0	10.0	26.0	13.0	9.0	36.0	0	4.5	Vulpia myuros	Petroraghia prolifera 	Daucus carota	15	5	5	N	N
+2019	summer	A06	95	5	0	23.0	23.5	0	41.5	0	6.5	10.0	10.5	7.0	35.0	32.0	40.5	0	21.0	29.0	26.5	8.0	12.0	15.5	Agrostis stolonifera	Pulicaria dysenterica	Lotus corniculatus	15	25	20	N	Y
+2019	summer	A07	90	0	6.0	11.0	0	9.0	7.5	5.5	5.0	40.0	6.5	7.0	2.0	2.0	0	6.0	7.0	6.0	8.0	23.5	16.0	25.0	Festuca ovina 	Erigeron annuus 	Picris hieraceoides	60	5	8	N	Y
+2019	summer	A08	80	0	0	3.0	22.0	3.5	17.0	31.0	2.0	0	5.0	5.5	25.0	7.0	7.0	3.0	10.0	2.0	21.5	5.5	6.5	3.0	Festuca ovina 	Picris hieracioides	Medicago lupulina 	30	15	5	N	Y
+2019	summer	A09	95	0	2.0	5.5	11.0	3.5	6.0	26.0	0	3.0	7.0	9.0	8.0	8.5	10.0	14.0	11.0	16.5	6.0	0	6.5	0.5	Festuca ovina 	Seculigera varia 	Erigeron annuus 	25	30	10	N	Y
+2019	summer	A10	50	0	11.0	0	23.0	3.0	18.0	7.0	0	0	16.0	0	0	0	12.0	0	9.0	0	3.0	2.0	0	9.0	Festuca ovina 	Bromus inermis	Echium vulgare	25	8	5	N	Y
+2019	summer	A11	80	3	3.0	6.5	7.0	6.0	5.0	0.5	22.0	4.5	0	0	6.0	4.0	3.0	25.0	7.0	0	6.0	1.0	0	5.5	Festuca ovina 	Daucus carota	Medicago lupulina	30	15	5	N	Y
+2019	summer	A12	95	0	11.0	7.0	14.0	0	1.0	18.0	0	3.0	1.5	0	33.5	16.0	7.0	0	11.0	94.0	70.5	72.0	66.5	17.0	Juncus inflexus	Calamagrostis epigeios 	Phragmites communis	40	10	2	N	Y
+2019	summer	A13	90	5	3.0	2.0	0	1.0	11.0	0.5	7.0	18.0	0	16.5	10.0	10.5	2.0	11.0	27.5	6.0	2.0	3.0	5.5	16.0	Echium vulgare	Festuca ovina	Petroraghia prolifera	35	20	5	N	Y
+2019	summer	A14	30	0	4.0	7.5	0	4.0	0	7.0	0	4.5	0	0	0	10.0	3.0	0	14.0	6.5	3.0	8.0	12.0	0	Poa trivialis	Plantago lanceolata 	Dactylis glomerata	15	5	3	N	Y
+2019	summer	A15	90	8	29.0	21.5	16.5	18.5	20.0	27.5	42.0	12.0	5.5	16.0	20.0	24.5	31.0	23.0	15.0	39.0	15.0	5.5	0.5	2.0	Odontites serotinus	Poa trivialis	Medicago lupulina	20	5	10	N	Y
+2019	summer	A16	90	0	85.5	64.0	0	33.5	63.5	74.0	46.0	63.0	0	24.0	4.0	6.0	49.0	53.0	113.0	66.0	62.0	3.0	0	0	Calamagrostis epigeios 	Solidago gigantea	Erigeron annuus 	60	20	5	N	N
+2019	summer	A17	98	0	14.0	11.0	14.5	1.0	8.0	13.0	12.0	8.0	10.0	19.0	18.0	5.0	4.0	2.0	16.0	51.0	8.0	0	0	9.0	Calamagrostis epigeios	Trifolium campestre 	Plantago lanceolata 	40	15	5	N	Y
+2019	summer	A18	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2019	summer	A19	100	0	9.5	1.0	5.0	17.5	39.0	0	38.0	28.0	27.0	0	3.5	1.5	12.0	7.0	0	18.0	47.0	32.0	8.0	36.5	Bromus hordaceous 	Gallium mollugo 	Seculigera varia	20	30	5	N	N
+2019	summer	A20	85	5	0	12.0	11.5	12.0	0	0	11.5	10.0	9.0	22.0	15.5	13.5	3.0	6.0	8.5	12.0	5.5	7.5	10.5	0	Agrostis stolonifera	Plantago lanceolata	Seculigera varia 	40	10	15	N	Y
+2019	summer	A21	95	5	11.0	5.0	20.5	0	8.0	36.5	9.5	2.5	10.0	15.0	13.0	4.0	5.0	22.0	36.5	15.0	2.0	18.5	15.0	8.5	Bromus sterilis	Agrostis stolonifera 	Arenaria serpyllifolia	15	30	5	N	N
+2019	summer	A22	70	40	2.0	27.0	0	3.0	11.0	0	2.0	3.0	10.0	3.0	6.5	1.5	1.5	2.0	2.5	5.5	0.5	6.0	0	1.0	Erigeron annuus 	Vulpia myuros 	Juncus inflexus	15	2	5	N	Y
+2019	summer	A23	10	5	0	0	0	0	0	4.0	0	5.5	38.0	2.5	14.0	13.0	6.5	0	0	15.5	50.5	0	5.0	0	Arenaria serpillyfolia 	Erigeron annuus 	Hypericum officinalis	3	3	2	N	N
+2019	summer	A24	30	5	0	1.0	2.0	10.5	7.5	0	0	2.0	2.0	39.5	3.0	2.5	7.5	0	0	0	5.0	12.0	14.0	0	Plantago lanceolata 	Festuca ovina	Erigeron annuus 	7	5	3	N	N
+2019	summer	A25	95	0	6.0	23.5	48.0	32.5	64.5	16.0	56.5	56.0	60.5	0	6.0	25.0	2.0	12.0	0	19.0	16.5	11.5	18.5	5.0	Agrostis gigantea	Menta aquatica 	Juncos inflexus	30	20	25	N	Y
+2019	summer	A26	95	0	24.5	21.5	0	0	0	0	74.0	48.0	0	0.5	1.0	10.0	5.0	12.5	0	19.5	11.0	24.0	19.0	20.5	Festuca pratensis 	Equisetum arvense	Seculigera varia 	30	10	10	N	N
+2019	summer	A27	90	0	33.0	0	8.0	0	0.5	10.0	11.0	39.0	78.0	0	15.0	4.5	0	1.5	9.0	0.5	18.5	0	21.0	0	Festuca ovina	Seculigera varia	Sanguisorba officinalis	5	15	1	N	N
+2019	summer	A28	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2019	summer	A29	95	1	5.5	7.5	8.0	0	0.5	6.0	17.0	16.5	10.0	0	10.5	0	0	11.0	4.5	0	0.5	31.0	0	4.0	Seculigera varia	Festuca pratensis	Plantago lanceolata 	40	20	1	N	N
+2019	summer	A30	90	5	67.0	9.5	11.0	0	39.0	11.5	0	15.0	41.5	20.5	0	0	3.0	13.0	34.0	43.0	6.0	14.0	0	17.0	Festuca ovina	Sanguisorba officinalis 	Festuca pratensis	20	10	10	N	N
+2019	summer	A31	70	0	3.0	13.5	8.0	14.0	17.5	23.5	8.0	2.5	15.0	2.0	3.0	0	32.5	1.0	2.0	17.0	6.5	0.5	9.0	0.5	Bromus hordaceous	Festuca ovina 	Plantago lanceolata 	15	20	5	N	N
+2019	summer	A32	90	20	9.0	5.0	50.5	8.0	66.0	15.0	52.5	42.0	0	7.5	50.0	21.0	3.0	11.0	4.0	54.0	2.0	8.0	64.5	19.0	Festuca ovina 	Medicago lupulina 	Erigeron annuus 	10	30	10	N	N
+2019	summer	A33	70	15	38.0	0	3.0	0	30.5	1.5	3.0	6.5	3.5	3.0	12.5	21.0	2.5	4.5	32.0	0.5	8.0	0	0.5	0	Vulpia myuros 	Seculigera varia 	Erigeron annuus 	10	20	10	N	N
+2019	summer	A34	90	0	37.5	31.0	19.5	13.0	4.5	13.5	0	56.5	4.5	7.5	10.0	5.5	1.0	13.5	6.0	0	14.0	24.0	4.0	19.0	Rubus caesius 	Festuca pratensis 	Dactylis glomerata 	30	30	5	N	Y
+2019	summer	A35	95	0	0.5	6.5	11.5	0	21.5	27.0	29.5	3.0	27.0	11.0	18.0	35.0	37.0	0	17.0	36.0	0	85.5	27.0	27.5	Festuca pratensis 	Festuca ovina 	Dactylis glomerata 	70	10	2	N	N
+2019	summer	A36	80	5	6.0	56.0	18.5	2.0	0	43.2	3.0	23.0	16.0	11.0	24.5	0	2.5	78.5	12.0	4.5	6.5	71.0	0	21.0	Seculigera varia 	Festuca ovina 	Festuca pratensis 	35	15	20	N	Y
+2019	summer	A37	75	0	0	8.0	3.5	0	0	77.5	19.0	15.0	13.0	0	2.0	18.0	25.0	0	7.5	0	3.0	7.0	10.5	0	Bromus erectus	Festuca pratensis	Seculigera varia 	20	20	5	N	Y
+2019	summer	A38	70	0	4.5	9.5	0	0	3.5	0	0	26.5	5.5	0	0	9.0	0	12.5	9.5	5.5	0	4.5	5.0	4.5	Agrostis stolonifera 	Festuca ovina	Trifolium campestre 	25	5	10	N	N
+2019	summer	A39	95	0	37.5	16.0	12.0	31.0	4.0	18.5	14.0	7.0	18.0	26.0	7.0	0	0	9.5	21.0	19.0	29.5	17.0	0	10.5	Festuca pratensis	Dactylis glomerata 	Seculigera varia 	60	10	15	N	Y
+2019	summer	A40	100	0	31.0	12.0	83.0	19.0	0	10.0	21.0	0	0	9.0	12.5	19.0	11.0	0	12.0	10.5	2.0	0	7.5	9.0	Arrhenaterum elatius 	Festuca pratensis 	Carex flacca	40	20	10	N	Y
+2019	summer	A41	90	0	13.0	22.0	12.0	4.0	0	4.5	0	28.0	8.5	0	7.0	4.5	7.0	5.0	5.5	44.0	30.0	7.0	14.0	5.0	Festuca pratensis	Koeleria pyramidata	Trifolium campestre 	60	5	5	N	Y
+2019	summer	A42	50	5	0	15.0	13.0	5.5	4.0	0	0	64.5	0	19.0	0	9.0	0	15.0	14.5	0	1.0	0	40.0	0	Festuca ovina 	Bromus erectus	Erigeron annuus 	20	5	2	N	Y
+2019	summer	A43	50	15	0	18.0	0	64.0	5.5	12.0	62.0	0	11.0	37.5	0	22.5	0	3.0	0	0	0	55.5	4.0	0	Festuca ovina 	Seculigera varia 	Bromus erectus	20	10	5	N	N
+2019	summer	A44	60	10	4.5	6.5	4.5	2.0	3.0	1.5	11.0	6.0	3.5	5.0	4.5	1.0	2.0	0	4.0	11.0	1.5	29.0	5.0	3.0	Festuca pratensis 	Festuca ovina	Erigeron annuus 	20	10	5	N	Y
+2019	summer	A45	60	5	36.5	0	0	71.0	35.5	0	3.0	45.0	21.0	0	0	0	3.5	2.0	0	36.0	27.5	0	0	0	Medicago campestre 	Vulpia myuros 	Solidago gigantea 	10	5	30	N	Y
+2019	summer	A46	30	15	34.0	0	0	0	5.5	0	0	2.0	0	0	5.0	0	2.0	39.5	0	6.5	0	3.0	11.5	5.0	Seculigera varia 	Erigeron annuus 	Sanguisorba officinalis	5	2	4	N	N
+2019	summer	A47	70	5	0	0	0	58.5	13.5	5.0	4.5	6.5	0	9.5	12.0	0	5.0	0	0	5.0	0	53.5	0	0	Festuca pratensis 	Lotus corniculatus 	Festuca ovina 	25	10	10	N	Y
+2019	summer	A48	90	1	7.0	9.0	8.5	22.0	15.0	15.5	9.5	22.0	11.0	4.0	7.5	10.5	43.5	28.5	12.0	12.0	8.5	16.0	3.5	20.0	Trifolium repens 	Carex sp	Juncus inflexus	40	10	5	N	Y
+2019	summer	A49	70	15	10.0	9.5	34.0	22.5	34.5	17.0	17.0	28.0	4.0	3.5	4.0	18.0	34.0	37.5	4.0	25.5	42.0	13.0	16.0	18.5	Vulpia myuros 	Petrarhaghia prolifera 	Plantago lanceolata 	8	5	10	N	N
+2019	summer	A50	80	5	0	14.5	6.5	4.5	10.0	16.5	8.5	9.5	12.0	9.0	70.0	0	11.0	10.0	6.0	13.5	10.0	10.5	11.0	15.0	Festuca pratensis 	Festuca ovina 	Gallium mollugo	40	8	10	N	Y
+2019	summer	A51	90	0	10.0	18.0	24.0	0	0	25.0	5.0	30.0	21.0	1.5	9.0	9.0	18.5	40.0	24.0	44.5	4.5	0	4.0	21.5	Agrostis gigantea	Trifolium campestre 	Solidago gigantea 	10	20	10	N	Y
+2019	summer	A52	95	0	13.0	4.5	52.0	4.0	12.5	16.0	0	12.0	7.0	34.0	9.0	19.0	19.0	1.0	21.0	29.0	7.0	8.0	7.5	4.0	Carex flacca 	Erigeron annuus 	Populus nigra 	15	3	60	N	N
+2019	summer	A53	90	0	21.0	13.0	3.0	 15.5	7.0	25.5	7.5	2.0	30.0	11.0	9.0	12.0	13.0	12.0	1.0	12.0	11.5	12.0	30.5	0.5	Festuca  pratensis	Petraraghia prolifera	Plantago lanceolata	25	10	15	N	Y
+2019	summer	A54	5	1	0	4.0	2.5	19.5	0	2.0	3.5	0	0	0	12.0	14.0	0	1.0	0	0	0	0	0	0	Populus nigra 	Festuca ovina 	Erigeron annuus	5	1	1	N	Y
+2019	summer	A55	70	10	0.5	0	0	11.0	0	0	0.5	4.0	17.0	0	36.0	25.0	0	3.5	0	0	0	0	22.0	58.0	Seculigera varia 	Erigeron annuus 	Plantago lanceolata 	25	3	1	N	Y
+2019	summer	A56	75	0	13.0	29.0	19.0	5.5	22.0	5.0	0	16.5	7.0	1.0	2.0	8.0	23.0	8.5	9.0	0	7.0	0	5.0	3.0	Vulpia myuros	Festuca pratensis 	Seculigera varia 	20	5	10	N	N
+2019	summer	A57	25	0	3.0	2.5	3.0	10.5	18.0	0	4.5	3.5	46.0	3.0	5.5	15.5	2.0	0	0	0	0	3.5	0	1.0	Festuca ovina	Carex flacca 	Potentilla reptans ?	5	8	5	N	N
+2019	summer	A58	15	0	20.5	0	0	0	58.0	34.0	0	3.0	0	0	21.5	9.0	0.5	0	3.5	0	9.0	0	5.0	28.5	Carex flacca 	Festuca pratensis 	Populus nigra	2	1	5	N	Y
+2019	summer	A59	95	0	3.0	7.5	53.0	7.0	3.0	4.5	4.0	8.0	16.5	11.0	8.0	0	14.5	3.0	5.5	45.5	0	22.5	2.5	9.0	Festuca pratensis	Medicago lupulina	Potentilla reptans 	30	10	10	N	Y
+2019	summer	A60	50	0	0	3.0	26.0	15.0	0	0	0	37.5	0	0	47.0	14.0	34.5	27.0	0	37.5	29.5	6.0	0	0	Solidago gigantea 	Poa trivialis	Cirsium sp	30	10	1	N	Y
+2019	summer	A61	60	0	1.0	2.0	3.0	5.0	5.5	0	49.5	0	4.5	1.5	4.0	3.0	4.5	5.0	54.0	0	1.0	4.5	12.0	8.0	Trifolium campestre 	Erigeron annuus 	Bromus erectus 	20	10	8	N	N
+2019	summer	A62	100	0	13.5	20.5	13.0	8.0	3.0	7.0	12.5	2.0	33.0	31.0	9.0	4.5	8.0	7.5	10.0	22.0	16.0	30.0	20.5	75.5	Medicago lupulina	Juncus inflexus 	Carex flacca	40	40	15	N	Y
+2019	summer	A63	50	15	14.5	17.0	0	3.0	0.5	1.0	4.0	10.0	1.0	0	6.0	0	19.0	9.0	0.5	24.0	0	8.0	0.5	24.5	Vulpia myuros	Trifolium campestre	Erigeron annuus	25	5	1	N	N
+2019	summer	A64	100	15.0	13.0	0	67.0	14.0	0	65.5	49.0	4.0	71.0	27.0	0	6.5	66.0	68.5	59.0	0	52.0	35.0	57.0	3.0	Solidago gigantea	Medicago lupulina	Vulpia myuros 	80	3	1	N	N
+2019	summer	A65	90	1	9.0	63.0	12.0	9.5	12.0	9.0	6.5	39.0	17.0	36.5	4.0	1.0	0	52.0	17.5	48.5	51.0	8.5	49.5	12.5	Trifolium campestre	Festuca ovina	Erigeron annuus	30	20	15	N	N
+2019	summer	A66	80	20	7.5	66.0	7.0	6.5	6.5	49.0	52.5	22.0	8.0	5.0	0	22.5	1.0	10.0	7.5	7.5	27.5	5.0	0.5	1.0	Festuca ovina	Seculigera varia 	NA	30	5	3	Y	N
+2019	summer	A67	40	5	2.5	42.0	6.0	5.5	10.0	0	19.5	17.5	23.0	5.0	1.0	3.5	50.5	22.5	33.5	19.0	29.5	2.0	27.5	2.5	Petraraghia prolifera	Erigeron annuus	Bromus erectus	10	15	15	N	N
+2019	summer	A68	75	0	50.5	1.5	9.5	10.0	2.0	37.5	9.5	44.5	26.0	25.5	19.0	0	39.0	28.5	1.0	0	2.0	2.5	43.5	11.0	Solidago gigantea 	Populus nigra 	Trifolium campestre 	10	8	5	N	Y
+2019	summer	A69	60	1	15.5	4.0	0	5.5	6.5	5.5	40	7.0	74.0	2.0	35.5	6.5	5.0	2.0	35.5	7.0	18.0	9.5	5.5	0	Festuca ovina 	Bromus erectus	Erigeron annuus	20	10	5	N	N
+2019	summer	A70	85	15	39.0	7.0	54.0	44.0	17.0	13.0	0	6.0	53.0	2.5	3.0	55.5	61.0	0	0.5	8.5	13.5	18.0	49.0	68.0	Festuca ovina	Solidago gigantea	Trifolium repens 	45	10	10	N	N
+2019	summer	A71	100	0	73.0	15.0	22.0	21.0	17.0	41.0	36.0	69.0	0	25.0	87.0	56.0	35.5	12.0	23.0	41.0	32.0	92.0	78.0	57.0	Solidago gigantea 	Seculigera varia 	Hypericum perforatum 	60	20	5	N	N
+2019	summer	A72	70	10	7.0	19.0	12.5	48.5	2.0	24.5	13.0	0	33.5	0	0	0	6.0	61.0	48.0	0	53.5	56.5	62.0	9.0	Festuca ovina	Erigeron annuus	Populus nigra 	50	5	2	N	N
+2019	summer	A73	95	5	43.5	2.5	6.0	56.5	43.5	24.5	16.5	23.0	58.0	7.5	21.0	15.5	55.0	24.0	10.0	24.5	0	8.0	5.0	6.0	Festuca ovina	Medicago lupulina	Erigeron annuus 	50	25	10	N	N
+2019	summer	A74	90	0	23.0	6.0	5.5	25.0	22.0	22.5	34.0	52.0	62.0	17.5	71.0	4.5	61.5	17.0	23.0	0	19.5	13.5	5.0	0	Festuca ovina	Medicago lupulina	Populus balsamifera	40	25	20	N	N
+2019	summer	A75	70	0	16.0	16.5	7.0	12.0	31.0	5.5	0	8.0	19.5	27.5	2.5	3.0	2.5	30.0	18.5	0	0	0	0	0	Erigeron annuus	Trifolium repens 	Daucus carota	15	10	7	N	N
+2019	summer	A76	70	3	6.0	2.0	0	0	7.0	0	7.5	0	0	16.5	13.5	22.5	7.5	36.0	0	0	13.0	0	9.0	12.5	Equisetum palustre 	Erigeron annus 	Vicia cracca tenuifolia 	30	10	8	N	N
+2019	summer	A77	95	1	39.0	8.0	14.0	10.5	6.0	9.0	38.0	0	8.0	1.0	9.5	0	9.0	6.0	7.0	7.5	49.5	0.5	41.0	32.0	Seculigera varia 	Erigeron annus 	Festuca ovina 	40	30	15	N	N
+2019	summer	A78	90	10	3.0	8.0	7.5	5.0	10.0	3.0	3.5	1.5	4.5	12.5	9.0	6.5	0.5	7.0	5.5	5.5	7.0	4.0	2.5	3.0	Rubus caesius 	Petroraghia prolifera	Bromus erectus	40	35	5	N	N
+2019	summer	A79	95	10	9.0	20.0	5.5	4.0	15.5	0	0	3.5	6.6	34.0	3.0	1.5	7.0	9.0	6.5	3.5	6.5	36.0	2.5	15.0	Echium vulgare	Trifolium campestre	Festuca ovina	30	20	15	N	N
+2019	summer	A80	30	3	2.0	0.5	0	0	0	0	1.5	0.5	0.5	15.0	15.0	3.0	5	4.5	3.0	2.0	0	8.0	0	0	Origanum vulgare	Medication lupulina	Arenaria serpyllifolia	10	5	3	N	N
+2020	summer	A01	85	0	5.0	0	5.5	8.0	3.5	5.0	0	9.0	7.0	3.0	6.0	0	7.0	0	7.5	7.5	5.0	6.5	2.0	4.0	Agrostis stolonifera 	Festuca ovina	Seculigera varia	25	20	5	N	Y
+2020	summer	A02	70	40	4.5	2.0	4.0	0	5.0	0	0	0	0	2.5	3.0	0	0	0	5.0	0	15.5	0.5	2.0	0	Festuca ovina 	Medicago lupulina 	Erigeron annuus	15	10	5	N	Y
+2020	summer	A03	80	0	14.0	5.0	8.5	0	5.0	5.5	0	17.0	10.0	0	9.0	10.0	5.0	6.0	12.0	58.0	0	13.0	7.5	0	Festuca ovina 	Bromus hordaceous	Medicago lupulina 	30	5	3	N	Y
+2020	summer	A04	70	0	40.5	25.5	0	4.0	0	0	0	0	0	9.0	5.5	0	43.5	0	5.5	0	13.5	0	0	6.0	Festuca ovina 	Medicago lupulina 	Solidago gigantea 	30	5	15	N	Y
+2020	summer	A05	75	0	8.0	11.5	28.5	12.5	4.0	4.0	4.5	44.5	20.5	0	11.5	0	0	0	17.0	8.5	4.0	0	25.0	43.0	Festuca ovina	Agrostis stolonifera	Calamgrostis epigeios	20	10	8	N	Y
+2020	summer	A06	100	10	5.0	3.5	4.0	9.5	3.0	0	6.5	0	0	12.0	3.0	3.0	7.0	5.0	0	0	1.0	4.0	13.5	6.5	Agrostis stolonifera	Cinosorus cristatus	Lotus corniculatus	40	10	20	N	Y
+2020	summer	A07	80	0	5.0	3.0	2.0	5.5	20.5	2.5	3.0	23.5	4.0	0	0	20.5	2.5	2.0	5.5	3.0	4.5	9.0	0	3.5	Festuca ovina 	Erigeron annuus 	Trifolium campestre	40	5	15	N	Y
+2020	summer	A08	80	0	6.5	0	20.0	3.0	12.0	3.0	6.0	5.5	5.0	2.5	6.5	7.0	7.0	7.5	0	6.0	6.0	16.0	6.0	0	Festuca ovina 	Picris hieracioides	Carex flacca	40	10	5	N	Y
+2020	summer	A09	90	30	5.5	2.5	1.0	0	0.5	2.5	0	0	11.0	1.0	0	5.0	3.5	4.5	0	31.5	11.5	3.5	4.5	13.5	Festuca ovina 	Seculigera varia 	Erigeron annuus 	30	15	15	N	Y
+2020	summer	A10	40	0	7.0	1.5	0	6.5	0	0	0	0	0	0	8.0	0	12.0	8.5	28.0	0	51.5	0	0	0	Festuca ovina 	Bromus inermis	Erigeron annus	15	10	2	N	Y
+2020	summer	A11	95	5	6.5	4.0	7.0	6.0	4.0	0.5	5.0	3.5	7.0	0	4.0	5.5	3.5	0.5	2.0	41.0	2.0	5.5	0	0	Festuca ovina 	Carex sp	Picris hieraceous	25	10	10	N	Y
+2020	summer	A12	70	0	0	0	24.0	8.5	10.0	0	0	17.0	12.5	0	49.0	61.0	41.0	0	0	0	17.0	32.0	0	7.0	Juncus inflexus	Poa trivialis	Dactylis glomerata	30	5	5	N	Y
+2020	summer	A13	60	0	14.0	5.5	3.0	3.5	5.0	6.0	14.5	10.5	7.0	0	0	0	0	0	0	0	4.0	12.5	4.0	9.0	Festuca ovina	Echium vulgare	Erigeron annuus	15	30	5	N	Y
+2020	summer	A14	50	10	3.0	6.5	0	4.0	8.0	0	0	3.0	0	4.0	6.5	0	0	5.5	0	6.0	0	0	0	6.5	Poa trivialis	Plantago lanceolata 	Erigeron annuus	20	10	5	N	Y
+2020	summer	A15	100	20	12.0	7.0	9.0	8.0	8.5	11.5	2.5	20.0	27.0	1.5	9.0	9.5	3.0	3.0	4.0	7.5	7.0	13.0	8.5	6.5	Poa trivialis	Equisetum arvense	Odontites serotinus	15	20	10	N	Y
+2020	summer	A16	80	0	27.0	72.0	58.0	0	8.0	0	35.0	68.5	28.0	0	0	0	44.5	39.0	64.0	25.0	0	0	0	10.5	Calamagrostis epigeios 	Erigeron annuus	Solidago gigantea	20	20	5	N	Y
+2020	summer	A17	98	0	7.5	3.5	4.0	6.0	5.0	4.0	3.0	1.0	2.5	25.0	9.0	9.5	5.0	3.0	0	0	4.0	6.5	4.0	5.0	Calamagrostis epigeios	Plantago lanceolata	Medicago falcata	70	10	10	N	Y
+2020	summer	A18	100	0	7.5	7.0	8.0	3.0	13.0	8.0	12.0	3.5	5.5	11.5	6.5	5.0	6.0	10.0	14.0	0	15.0	13.0	16.0	7.5	Agrostis stolonifera	Festuca ovina	Cynodon dactylon	60	20	5	N	Y
+2020	summer	A19	95	0	4.0	1.5	0	2.5	24.0	0	11.5	0	4.0	6.0	22.5	9.0	0	14.0	0	11.0	4.0	5.5	18.0	4.0	Gallium mollugo	Bromus hordaceus	Petroraghia prolifera	25	10	3	N	Y
+2020	summer	A20	70	0	0	9.0	0	2.0	5.0	0	0	0	5.0	0	0	6.0	0	0	0	5.5	4.5	0	7.5	0	Agrostis stolonifera	Arenaria serpillifolia	Festuca ovina	30	10	5	N	Y
+2020	summer	A21	60	0	8.0	24.0	15.0	0	3.0	0	0	0	12.0	0	0	9.0	0	0	0	62.0	18.5	14.0	12.0	0	Agrostis stolonifera	Erigeron annuus	Petroraghia prolifera	10	25	2	N	Y
+2020	summer	A22	50	40	0	0	34.5	0	0	0	0	0	0	2.5	0	0	0	0	0	0	19.0	36.0	0	0	Erigeron annuus 	Plantago lanceolata	Juncus inflexus	20	5	3	N	N
+2020	summer	A23	5	0	19.5	0	0	0	0	0	0	0	0	0	28.0	0	0	0	0	14.5	0	0	0	0	Petroraghia prolifera	Erigeron annuus 	Picris hieracioides	1	3	1	N	N
+2020	summer	A24	30	5	0	0	25.0	50.0	0	0	0	3.5	7.5	3.0	0	18.5	0	0	0	0	17.0	0	24.0	0	Plantago lanceolata 	Festuca ovina	Erigeron annuus 	10	3	3	N	N
+2020	summer	A25	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2020	summer	A26	95	0	15.0	13.0	9.5	82.0	0	0	0	3.0	18.5	0	14.0	9.0	0	0	0	17.5	0	17.0	32.0	27.0	Festuca pratensis 	Dactylis glomerata	Equisetum arvense 	25	5	10	N	Y
+2020	summer	A27	90	0	0	0	22.0	106.0	0	0	0	0	0	0	20.5	0	0	0	19.5	0	20.0	0	0	0	Festuca ovina	Sanguisorba officinalis	Seculigera varia 	10	20	10	N	N
+2020	summer	A28	100	0	4.0	0	0	0	0	0	0	33.0	0	0	0	0	0	7.0	2.0	42.0	0	45.0	0	0	Solidago gigantea	Vulpia myuros	Populus nigra	30	3	67	Y	Y
+2020	summer	A29	90	0	3.5	11.0	3.5	0	0	5.0	7.0	6.5	0	0	0	4.5	6.5	3.0	0	0	0	11.0	3.5	0	Festuca pratensis	Festuca ovina	Seculigera Varia	20	15	15	Y	Y
+2020	summer	A30	80	0	3.0	7.0	0	5.0	7.5	0	6.0	53.0	7.0	6.5	0	1.5	2.0	5.5	5.0	8.5	10.0	4.0	8.0	0	Festuca ovina	Sanguisorba officinalis 	Plantago lanceolata	15	10	5	N	Y
+2020	summer	A31	60	0	7.0	5.0	6.0	6.0	10.5	6.0	7.0	5.0	0	0	0	0	2.0	0	6.5	44.0	0	9.5	1.0	0	Bromus hordaceous	Festuca ovina 	Plantago lanceolata 	10	10	8	N	Y
+2020	summer	A32																							Festuca ovina 	Medicago lupulina 	Erigeron annuus 	10	30	10	N	N
+2020	summer	A33	50	0	15.0	0	13.5	0	12.5	11.5	0	59.0	6.0	9.0	0	0	1.5	25.5	12.0	0	0	0	4.0	6.0	Seculigera varia	Origanum vulgare	Agrostis stolonifera	10	20	5	N	Y
+2020	summer	A34	100	0	18.0	2.0	26.0	0	0	0	6.0	12.5	16.0	0	11.0	12.0	0	8.5	0	12.0	21.0	9.5	0	0	Festuca pratensis	Dactylis glomerata	Rubus caesius	30	10	30	N	Y
+2020	summer	A35	90	0	2.5	3.5	0	24.5	14.0	36.0	7.0	4.0	0	0	12.0	14.0	3.0	50.0	0	14.5	12.0	15.0	22.0	8.5	Festuca pratensis 	Festuca ovina 	Dactylis glomerata 	70	20	2	N	Y
+2020	summer	A36	70	10	9.0	5.0	0	58.5	35.5	0	0	3.0	0	0	13.0	8.0	6.0	4.0	0	19.0	0	9.0	0	59.0	Festuca ovina	Festuca pratensis	Seculigera varia	20	15	10	N	Y
+2020	summer	A37	70	0	16.0	10.0	0	20.5	12.0	20.0	0	7.5	12.5	8.0	0	0	4.5	0	25.0	0	5.5	0	17.0	11.5	Festuca ovina	Festuca pratensis	Seculigera varia 	30	10	15	N	Y
+2020	summer	A38	80	0	0	23.0	0	13.0	42.0	0	0	0	28.5	0	0	5.0	0	14.5	5.0	4.0	0	30.0	0	3.0	Agrostis stolonifera 	Festuca ovina	Plantago lanceolata 	10	5	10	N	Y
+2020	summer	A39	100	0	3.0	5.0	25.0	12.0	3.0	4.5	9.0	14.0	22.0	13.5	16.0	20.5	4.5	2.0	5.0	7.0	4.5	8.5	9.5	0	Festuca pratensis	Dactylis glomerata 	Seculigera varia 	70	10	10	N	Y
+2020	summer	A40	100	0	7.0	9.0	8.5	16.0	0	0	0	18.0	0	11.0	19.0	13.5	9.0	10.0	25.0	2.0	8.0	15.0	0	0	Festuca pratensis	Festuca ovina	Dactylis glomerata 	50	10	10	N	Y
+2020	summer	A41	80	5	7.0	7.0	6.5	6	0	8.5	9.0	0	7.0	0	31.0	0	7.0	8.0	5.0	0	8.0	8.0	7.5	0	Festuca pratensis	Koeleria pyramidata	Plantago lanceolata	30	5	15	N	Y
+2020	summer	A42	60	5	16.0	15.5	4.5	10.0	7.0	0	9.0	0	0	2.0	0	0	0	0	2.0	0	9.5	11.0	0	0	Festuca ovina 	Bromus erectus	Seculigera varia	20	7	15	N	Y
+2020	summer	A43	70	5	0	11.0	24.0	0	0	5.0	0	5.5	0	3.0	7.0	9.0	0	1.5	3.5	13.5	6.0	8.5	0	13.5	Festuca ovina 	Seculigera varia 	Medicago lupulina	20	7	5	N	Y
+2020	summer	A44	70	10	0	0	4.0	5.0	4.5	0	6.5	7.0	0	0	8.0	2.0	0	0	3.0	5.0	5.5	0	0	0	Festuca ovina 	Festuca pratensis	Lotus corniculatus	20	7	5	N	Y
+2020	summer	A45	90	0	46.0	39.0	22.0	0	8.5	4.5	56.	60.0	17.0	0	0	4.5	0	77.0	0	7.0	10.5	6.5	10.5	10.0	Vulpia myuros	Festuca gigantea	Solidago gigantea 	15	10	25	N	N
+2020	summer	A46	40	25	23.5	0	0	0	0	0	0	0	0	0	0	0	4.5	0	0	0	6.0	0	2.5	0	Seculigera varia 	Sanguisorba officinalis	Petroraghia prolifera	7	3	1	N	Y
+2020	summer	A47	70	60	0	0	0	0	12.5	0	12.0	15.0	0	0	0	5.0	0	0	0	5.5	0	3.0	4.5	5.0	Festuca ovina 	Lotus corniculatus 	Festuca pratensis 	10	8	5	N	Y
+2020	summer	A48	100	0	16.0	13.5	11.0	22.5	19.5	22.0	21.0	27.0	7.5	22.0	23.0	67.5	2.5	12.0	16.0	16.5	7.0	11.5	21.5	17.0	Agrostis gigantea	Carex sp	Juncus inflxus	20	10	10	N	Y
+2020	summer	A49	75	3	6.0	13.5	8.0	38.0	6.5	11.5	0	7.0	0	0	0	12.0	11.5	7.0	0	4.0	3.0	2.5	3.5	17.5	Plantage lanceolata	Agrostis stolonifera	Medicago lupulina	30	5	10	N	Y
+2020	summer	A50	80	5	17.0	2.5	0	0	1.0	0	8.0	4.5	0	0	4.5	0	11.5	31.0	4.5	20.0	0	3.5	7.0	1.5	Festuca ovina	Festuca pratensis	Lotus corniculatus	30	5	0	N	Y
+2020	summer	A51	99	0	16.0	29.0	35.5	0	31.0	18.5	22.5	11.0	33.0	16.5	24.0	17.0	49.0	24.0	0	19.0	0	39.5	0	28.5	Agrostis gigantea 	Trifolium campestre 	Solidago gigantea 	20	15	7	N	Y
+2020	summer	A52	90	0	18.0	0	101.0	0	0	73.0	0	0	0	0	0	0	0	102.0	70.0	0	0	137.0	0	0	Erigeron annuus	Carex flacca	Populus nigra 	20	5	50	N	N
+2020	summer	A53	80	0	32.0	18.5	0	14.0	5.0	11.0	3.5	5.0	0	8.0	8.5	1.0	9.0	5.0	0	0	4.0	37.5	37.5	0	Plantago lanceolata	Festuca ovina	Medicago lupulina	20	3	10	N	Y
+2020	summer	A54	30	20	0	24.5	0	5.0	0	0	0	0	0	0	0	8.0	0	4.5	0	0	0	0	0	0	Populus nigra 	Erigeron annuus	Potentilla reptans	15	1	1	N	N
+2020	summer	A55	90	5	0	0	2.5	5.0	8.0	7.0	13.0	0	36.5	9.0	7.0	0.5	8.0	37.0	46.0	15.0	9.5	0	3.0	5.0	Medicago lupulina	Seculigera varia	Erigeron annuus	15	20	5	N	Y
+2020	summer	A56	50	0	19.0	3.5	0	0	10.0	8.0	36.0	4.0	13.0	0	0	0	0	0	0	0	8.0	0	10.5	25.5	Agrostis gigantea	Festuca pratensis 	Seculigera varia 	10	5	10	N	Y
+2020	summer	A57	60	0	8.5	25.0	2.0	7.0	14.0	28.0	0	6.0	0	11.0	10.0	39.0	21.0	68.0	1.0	12.0	38.0	5.0	14.5	0	Festuca ovina	Carex flacca 	Plantage lanceolata	10	15	5	N	Y
+2020	summer	A58	70	2	0	0	0	82.0	0	1.0	0.5	94.0	24.5	16.0	0	13.0	49.5	0	0	2.0	0.5	0	1.0	0	Festuca pratensis 	Agrostis gigantea	Seculigera varia	10	5	15	N	Y
+2020	summer	A59	95	1	9.5	17.5	7.0	8.0	6.5	2.0	8.0	0	4.0	6.0	4.0	3.0	5.5	8.5	5.5	6.0	2.0	21.5	15.0	0	Agrostis gigantea	Elymus repens	Picris hyeracioides	25	10	5	N	Y
+2020	summer	A60	40	0	0	25.0	0	0	0	0	0	0	0	0	0	0	23.0	0	0	22.0	0	0	25.0	0	Agrostis gigantea	Solidago gigantea	Festuca ovina	5	20	2	N	Y
+2020	summer	A61	80	0	0	5.0	13.0	6.0	26.5	12.5	9.0	0	0	39.0	43.0	0	0	0	36.0	0	15.5	0	7.0	0	Festuca ovina	Bromus erectus	Erigeron annus	15	10	15	N	Y
+2020	summer	A62	100	10	7.5	12.5	14.0	12.5	11.5	0	42.0	29.0	0	43.0	6.0	0	11.5	10.0	0	9.5	22.0	40.0	13.0	29.5	Carex flacca	Juncus inflexus 	Medicago lupulina	50	30	5	N	Y
+2020	summer	A63	40	20	9.0	3.0	0	0	0	29.0	0	15.0	0	0	0	6.0	0	0	0	0	0	0	6.5	0	Erigeron annus	Agrostis gigantea	Medicago lupulina	5	5	2	N	N
+2020	summer	A64	97	0	1.0	14.5	5.0	7.0	3.0	9.0	10.5	27.0	3.0	65.0	20.0	21.5	17.0	0	7.0	0	0	12.0	0	60.5	Agrostis gigantea	Equisetum arvense	Solidago gigantea	60	10	10	N	N
+2020	summer	A65	90	20	13.0	6.5	23.0	0	45.5	8.5	42.0	0	7.0	14.0	3.0	0	0	6.5	0	7.0	9.0	5.0	29.0	3.5	Festuca ovina	Agrostis gigantea	Erigeron annuus	30	10	5	N	N
+2020	summer	A66	85	20	0	0	3.0	4.0	11.0	8.5	9.0	17.0	4.5	7.0	30.5	29.5	13.5	14.0	0	8.0	8.0	37.5	27.0	11.0	Festuca ovina	Seculigera varia 	Festuca pratensis	40	10	5	N	N
+2020	summer	A67	70	10	0	16.0	0	7.5	0	0	7.0	59.0	0	7.5	0	54.0	0	4.0	0	56.0	0	50.5	6.5	39.0	Festuca ovina	Erigeron annuus	Bromus erectus	15	10	3	N	N
+2020	summer	A68	85	0	0	3.5	61.0	52.0	8.5	1.5	37.0	0	2.5	3.0	8.0	11.0	0	80.5	1.5	16.0	12.5	0	13.0	11.5	Festuca ovina	Trifolium campestre	Picris hieracioides	20	10	10	N	Y
+2020	summer	A69	65	0	3.0	10.5	0	8.5	8.5	9.0	7.5	13.0	56.0	0	7.5	9.5	13.0	2.5	14.5	2.0	0	5.0	12.5	7.5	Festuca ovina 	Bromus erectus	Erigeron annuus	30	5	10	N	N
+2020	summer	A70	95	5	1.0	22.0	21.	8.0	4.5	2.5	50.0	15.5	3.0	0.5	5.5	43.0	2.5	47.0	8.0	20.5	3.0	1.0	5.0	3.5	Festuca ovina	Trifolium repens 	Erigeron annus	30	10	15	N	Y
+2020	summer	A71	100	0	10.0	6.5	5.5	12.0	19.0	8.0	17.0	10.0	8.0	11.5	8.0	27.5	28.0	8.0	7.0	9.0	21.5	15.5	7.0	9.5	Agrostis gigantea 	Equisetum arvense	Holcus lanatus 	30	10	10	N	Y
+2020	summer	A72	70	0	8.5	15.5	0	30.0	11.0	0	42.5	15.5	0	36.5	10.5	0	0	0	10.0	3.5	23.0	0	0	7.5	Festuca ovina	Argostis gigantea 	Erigeron annus	10	3	1	N	Y
+2020	summer	A73	85	3	0	0	3.5	38.0	8.5	5.5	2.0	9.5	0	0	8.0	6.5	3.5	5.0	8.0	7.0	6.5	5.5	3.0	0	Festuca ovina	Erigeron annus	Medicago lupulina	20	30	10	N	Y
+2020	summer	A74	80	0	7.0	21.0	34.5	13.0	6.5	2.0	37.5	3.0	59.0	0	2.5	8.0	2.5	9.0	6.5	13.0	12.0	0	33.5	4.5	Equisetum arvense	Festuca ovina	Picris hieracioides 	25	10	15	N	Y
+2020	summer	A75	85	5	57.5	36.5	33.0	17.5	   8.5	7.5	6.0	8.5	11.0	5.0	9.0	3.0	10.0	7.0	5.0	2.0	12.0	6.0	0	4.0	Carex sp	Odontites serotinus	Erigeron annus	10	10	10	N	Y
+2020	summer	A76	70	5	2.5	3.5	3.0	16.5	6.0	15.0	7.0	14.0	9.5	15.5	10.0	4.5	6.0	7.5	6.5	14.5	5.0	0	5.0	0	Equisetum arvense	Prunella vulgaris	Vicia cracca tenuifolia 	20	10	5	N	Y
+2020	summer	A77	80	15	7.5	0	8.5	31.5	13.5	15.0	26.5	2.0	0	4.0	37.0	0	7.0	47.5	0	14.0	0	0	0	4.0	Seculigera varia 	Erigeron annus 	Festuca ovina 	10	10	3	N	Y
+2020	summer	A78	90	20	3.5	7.5	5.0	8.0	3.0	0	9.5	8.5	7.0	24.0	2.0	3.0	3.0	0	0	0	0	3.0	0	7.0	Festuca ovina	Erigeron annus	Rubus caesius 	30	15	30	N	N
+2020	summer	A79	60	20	7.0	8.0	13.5	2.0	0	6.0	18.5	44.5	5.5	0	5.0	5.5	33.5	0	3.0	6.0	32.0	0	3.5	0	Festuca ovina	Echium vulgare 	Erigeron annus	20	10	7	N	N
+2020	summer	A80	30	3	18.5	6.0	0	0	0	0	0	4.0	0	0	4.0	0	0	0	13.0	9.0	2.5	5.0	0	38.5	Medicago lupulina	Origanum vulgare	Carex sp	10	7	3	N	N
+2021	summer	A01	95	0	6.5	11.5	10.5	10	9	2.5	0	7.5	4	0	5.5	1.5	8	3	8.5	3.5	5	21.5	22	0	Agrostis stolonifera 	Plantago lanceolata 	Seculigera varia	35	10	25	 N	Y
+2021	summer	A02	95	10	7	3	10.5	7	24	37	10.5	24.5	3.5	4	9.5	7.5	2	39.5	7.5	42	7	33	1	4.5	Erigeron annuus 	Medicago lupulina 	Festuca ovina 	30	15	3	N	Y
+2021	summer	A03	90	0	10.5	21	14.5	30.5	38	63	4.5	13	8.5	53.5	6.5	22	20	0	23.5	48	13.5	0.5	5	14	Festuca ovina 	Bromus erectus	Festuca pratensis	30	10	10	N	Y
+2021	summer	A04	70	0	12	0	18.5	15	0	0	0.5	1	6	13	35	7.5	0	5	3.5	0.5	17	0	0	3	Vulpia myuros 	Erigeron annuus	Medicago lupulina 	5	15	20	N	Y
+2021	summer	A05	95	10	3.5	17	8	10.5	5	17.5	32.5	6	7.5	45	8	18.5	8.5	12	10.5	4	0	17.5	5	3.5	Festuca ovina	Agrostis stolonifera 	Plantago lanceolata 	15	15	10	N	Y
+2021	summer	A06	98	3	7	4.5	6.5	4	5	8.5	6	9	6	3	6.5	16	5	9.5	5	8	5.5	7	16	4	Agrostis stolonifera	Lotus corniculatus	Trifolium repens 	20	30	15	N	Y
+2021	summer	A07	95	0	4.5	5	8	9	5.5	5.5	19.5	4.5	4.5	4	29.5	3.5	8.5	0	6.5	7	7	6	10.5	7	Medicago lupulina 	Festuca ovina 	Erigeron annuus 	50	20	7	N	Y
+2021	summer	A08	95	10	6.5	5.5	8	3.5	42.5	5.5	21	1.5	24	8	8.5	18	23	3	3	14.5	3.5	4	11	0	Festuca ovina 	Carex flacca	Picris hieraceoides	20	10	25	N	Y
+2021	summer	A09	85	0	5.5	6	6.5	3	7.5	8.5	6	2	14	12	0	7.5	0	6	0	1.5	5.5	4.5	9	19.5	Erigeron annuus 	Agrostis stolonifera 	Plantago lanceolata 	30	10	5	N	Y
+2021	summer	A10	80	0	0	5.5	5.5	28	11	0	5.5	3	0	0	7.5	10.5	0	10	8	3.5	6	11.5	0	5	Medicago lupulina 	Bromus inermis	Festuca ovina	40	10	5	N	Y
+2021	summer	A11	95	10	4	5.5	23.5	4	25.5	4.5	6.5	3	2.5	9	8.5	29.5	5	6	5.5	0	8	3.5	6.5	25.5	Festuca ovina	Agrostis stolonifera	Medicago lupulina	20	10	20	N	Y
+2021	summer	A12	50	10	6.5	14.5	0	7	5	10.5	0	6	0	0	12	0	0	5	3	6.5	0	0	5.5	4.5	Juncus inflexus	Agrostis stolonifera 	Poa trivialis	40	15	5	N	Y
+2021	summer	A13	85	0	9	28.5	0	0	3	19	7	5	3	3.5	5	0	8.5	9.5	0	6.5	8	12.5	19	0	Festuca ovina	Bromes sterilis 	Plantago lanceolata 	20	10	20	N	Y
+2021	summer	A14	70	20	3.5	9.5	1.5	1	0	2.5	1	0	1	2	4	3.5	4	4.5	4	7	2	7.5	2.5	4.5	Agrostis stolonifera	Festuca ovina	Medicago lupulina	20	15	5	N	Y
+2021	summer	A15	98	8	16	6.5	13	3	19	4	6.5	21	2.5	3	21.5	3	9.5	2.5	20.5	7	0	3	12.5	23	Equisetum arvense	Medicago lupulina 	Holcus lanatus	25	30	5	N	Y
+2021	summer	A16	95	0	14.5	10.5	18	22	0	0	12	13.5	5.5	3	0	0	6	0	21.5	11	20	5.5	27	10.5	Bromus hordaceous	Seculigera varia	Vulpia myuros	15	25	2	N	Y
+2021	summer	A17	90	0	6.5	13.5	12.5	8	4	5.5	7	6.5	6.5	5	8	9	7.5	3	4.5	7.5	11	8.5	0	6	Calamagrostis epigeios	Dactilys glomerata	Seculigera varia	30	20	15	N	Y
+2021	summer	A18	95	0	5	5	6.5	9.5	6	5.5	6	5	5	5.5	5	17	5.5	6	6	7	9.5	2.5	1	1.5	Festuca ovina	Agrostis stolonifera	Coronilla coronata 	25	30	25	N	Y
+2021	summer	A19	70	0	1	7	9.5	10.5	0	6.5	8.5	9	0	13	15	16.5	5	8	8	9	0	0	0	0	Gallium mollugo 	Poa palustris 	Bromus sterilis	30	20	5	N	Y
+2021	summer	A20	80	0	4	3	11	0	2	3	3.5	0	4.5	3	0	3.5	14.5	6	4	3	0	2.5	0	4.5	Agrostis stolonifera 	Arenaria serpillifolia 	Plantago lanceolata 	15	20	10	N	Y
+2021	summer	A21	85	0	3	18.5	13	13.5	7	1.5	19.5	8	2.5	7.5	6.5	8	25	6	22.5	1	26	19	7.5	16	Petroraghia prolifera 	Crepis vesicaria	Bromes sterilis 	15	30	5	N	Y
+2021	summer	A22	40	30	2.5	4.5	4	0	0	0	12.5	0	7	0	0	34	19	4.5	8	0	4.5	18.5	1	0	Vulpia myuros 	Arenaria serpillifolia 	Plantago lanceolata 	3	5	5	N	Y
+2021	summer	A23	25	5	0	3.5	0	3	10	8	0	0	4.5	0	0	0	0	3	0	8.5	1	3	5.5	22.5	Petroraghia prolifera 	Medicago lupulina	Erigeron annuus 	5	7	3	N	N
+2021	summer	A24	40	5	5	12.5	0	10.5	0	12	0	4.5	6.5	0	8	12.5	7	8	0	0	7.5	12.5	3	7.5	Plantago lanceolata	Arenaria serpillifolia 	Medicago lupulina 	15	3	5	N	Y
+2021	summer	A25	30	0	7	3	0	1.5	3.5	12	2	2.5	0	3.5	2.5	0.5	3	0	7.5	4.5	8	8	0	0	Equisetum palustre 	Agrostis gigantea	Trifolium arvense 	5	5	5	N	Y
+2021	summer	A26	90	0	12.5	12	8	51	10	39	0	4.5	3	11	3.5	0	9.5	62.5	0	14	11.5	14.5	52	13.5	Festuca pratensis	Dactylis glomerata	Medicago lupulina	30	15	20	N	Y
+2021	summer	A27	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2021	summer	A28	90	0	33.5	44	47	19.5	27	0	36.5	29.5	8	17	19.5	23	27	40	16.5	0	15	37.5	22	17	Vulpia myuros 	Solidago gigantea	Poa palustris	30	15	3	Y	Y
+2021	summer	A29	90	0	8.5	5.5	5.5	17	11	6	11.5	11.5	33	6.5	8	4.5	7	7	0.5	16	7.5	11	26	0	Festuca pratensis	Medicago lupulina	Plantago lanceolata	15	30	25	N	Y
+2021	summer	A30	95	0	4.5	5.5	0	30	12.5	13	5	7.5	8	0	0	14.5	5	2.5	17	6	8	37	42	5	Festuca ovina	Festuca pratensis	Plantago lanceolata	20	10	10	N	Y
+2021	summer	A31	70	0	13.5	0	35.5	3	9.5	4.5	10	9.5	0	8	5.5	14	9.5	11	14	0	0	1	0	6.5	Festuca pratensis 	Festuca ovina	Plantago lanceolata	15	5	8	N	Y
+2021	summer	A32	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2021	summer	A33	50	0	18	53	0	0	0.5	16	25	12	21.5	2	0	15.5	0	0	0	2.5	0	29	28	7	Holcus lanatus 	Agrostis stolonifera	Seculigera varia	15	5	5	N	Y
+2021	summer	A34	70	0	0	9.5	0	6	6	14	7	0	0	5	10	5.5	0.5	9	7	6	6	4	6.5	7.5	Dactylis glomerata 	Festuca pratensis 	Bromus sterilis 	25	10	5	N	Y
+2021	summer	A35	85	0	12	0	0	18	16.5	0	46.5	9	14	11	4	12	13	6.5	11	49	0	8	12.5	9	Festuca pratensis	Festuca ovina	Plantago lanceolata	40	10	10	N	Y
+2021	summer	A36	70	5	0	8	0	8.5	4	0	3.5	4	10.5	10	5	3	0	4	19	0	11.5	4.5	7	11	Festuca pratensis	Festuca rubra	Festuca ovina	15	8	5	N	Y
+2021	summer	A37	80	10	14	0	59	0	1	9.5	49	7	11.5	0	5	13	12	0	14.5	30.5	3.5	7	7.5	45	Festuca rubra	Plantago lanceolata	Seculigera varia	20	20	20	N	Y
+2021	summer	A38	80	5	7.5	3	0	5.5	6	6.5	8	7.5	28	14.5	4	2	5.5	6.5	53	11	0	8.5	12	10.59	Agrostis stolonifera	Festuca ovina	Petroraghia prolifera	15	10	10	N	Y
+2021	summer	A39	85	0	2	11.5	14	0	8.5	0	7	5	8	4	5	5	4	9	11.5	6.5	22	5	4	8	Coronilla coronata	Festuca pratensis	Plantago lanceolata	30	40	20	N	Y
+2021	summer	A40	95	3	1.5	5.5	9	0	5	0	8.5	5.5	8	7.5	4.5	3	2.5	7	8.5	6	7	5.5	0	5.5	Festuca pratensis	Dactylis glomerata 	Arrhenatrum elatius	30	15	10	N	Y
+2021	summer	A41	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2021	summer	A42	50	5	13.5	33.5	61	0	0.5	4.5	36.5	14	4	31.5	36.5	0	9	4	9	0	14	0	35	0	Koeleria pyramidata 	Festuca ovina	Medicago lupulina	15	10	15	N	N
+2021	summer	A43	80	5	4	24	7.5	8.5	7	4	9	0	5	0	0	4	5	3.5	6	8	36	0	0	3	Medicago lupulina	Artemisia sp	Festuca ovina	20	15	10	N	Y
+2021	summer	A44	80	15	8	6	2.5	4	4.5	5	2.5	10.5	0	2	6	2.5	12	7	3	4.5	3	0	2.5	0	Festuca ovina	Festuca rubra	Lotus corniculatus	10	8	10	N	Y
+2021	summer	A45	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2021	summer	A46	40	15	16.5	0	2.5	3	0	4	1	0	0	5	7	2.5	0	0.5	1	0	0	0	0	25.5	Sanguisorba officinalis	Coronilla coronata	Festuca ovina	15	5	2	N	Y
+2021	summer	A47	75	10	4.5	0	7.5	1.5	3.5	0	0	34.5	0	4	2.5	2	0	4.5	3	13.5	0	22	3	0	Medicago lupulina	Festuca ovina	Plantago lanceolata	20	10	5	N	Y
+2021	summer	A48	85	0	2	2.5	10.5	0	5.5	16	32	23	10	21	0	0	23	13	20.5	12.5	0	0	0	0	Juncus inflxus	Poa palustris 	Festuca ovina	25	20	5	N	Y
+2021	summer	A49	70	5	0.5	4.5	10	2.5	41	10.5	8	1	0	5.5	0	12.5	0	7	19	0	0	0	11	5	Plantago lanceolata 	Erigeron annuus	Petroraghia prolifera	30	15	2	N	Y
+2021	summer	A50	90	10	7.5	21	0	7	6.5	5	14.5	5	3	0	5	2.5	7	10	6	0	9.5	7.5	4	0	Trifolium campestre	Lotus corniculatus	Plantago lanceolata 	30	20	15	N	Y
+2021	summer	A51	100	5	14.5	9	14	17	0	8	0	0	18	15	20.5	17	0	13	20	0	8.5	6.5	4	19.5	Agrostis gigantea	Festuca ovina	Carex flacca 	30	20	5	N	Y
+2021	summer	A52	85	0	0	0	0	0.5	26	0	22	234	20	30.5	23.5	20	28	0	0	0	29	0	0	9	Agrostis gigantea	Carex flacca 	Erigeron annuus 	30	5	15	N	N
+2021	summer	A53	85	0	3.5	6.5	6	4.5	14.5	18	0	0	0	18.5	0	8	1	3	0	0	2.5	19	9	0.5	Plantago lanceolata	Medicago lupulina	Poa palustris	30	8	5	N	Y
+2021	summer	A54	20	10	0	0	0	0	0	0	0	0	0	4.5	0	48	0	11	0	0	0	0.5	0	0	Populus nigra	Festuca ovina	Erigeron annuus	10	2	2	N	Y
+2021	summer	A55	98	10	12.5	4.5	9	8	3.5	3.5	7	6.5	0	6.5	5	8.5	6	4	7	2.5	5	3.5	3	5.5	Medicago lupulina	Seculigera varia 	Erigeron annuus	20	20	15	N	Y
+2021	summer	A56	55	0	6.5	7	3	0	1	8	3	0	2.5	5	9.5	15.5	3.5	18	3	0	0	2	1.5	10.5	Bromus hordaceous	Agrostis stolonifera	Festuca ovina	30	10	5	N	Y
+2021	summer	A57	70	0	6.5	12	1.5	2	1	12.5	0.5	2	8.5	4	23	12	10	1.5	15	11	2.5	4.5	3	3	Carex flacca	Seculigera varia	Festuca ovina	20	25	3	N	Y
+2021	summer	A58	50	0	6.5	71	0	0	0	4.5	0	0	0.5	0	8.5	5.5	10.5	24	1	10	8.5	0	6.5	0	Carex flacca 	Festuca pratensis	Koeleria pyramidata	10	5	3	N	Y
+2021	summer	A59	98	8	14.5	8	6	6	2.5	7	7.5	2	8.5	8	3	4	3.5	4	4	6.5	17	3	3.5	6	Agrostis gigantea	Elymus repens	Medicago lupulina	25	15	10	N	Y
+2021	summer	A60	45	25	0	0	0	0	0	7.5	15	0	0	18	0	0	24.5	0	0	0	5	14	24	6	Agrostis gigantea	Poa palustris	Solidago gigantea	10	5	5	N	Y
+2021	summer	A61	70	0	45	0	14	1.5	0	7	6.5	8	2	25	0.5	11.5	24	12	5.5	0	45.5	26	0	0	Medicago lupulina	Festuca ovina 	Petroraghia prolifera 	20	10	5	N	N
+2021	summer	A62	92	5	5	6	7.5	9	2	5.5	4.5	0	17	29	4	8	5.5	6	3.5	9.5	5	5.5	22	0	Juncus inflexus 	Carex flacca 	Equisetum arvense 	35	30	8	N	Y
+2021	summer	A63	30	5	11	2.5	6	7	6.5	3	6	0	0	3.5	14	8.5	0	1.5	6	3	5.5	12.5	10	4	Agrostis gigantea	 Medicago lupulina	Erigeron annuus	15	10	5	N	N
+2021	summer	A64	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+2021	summer	A65	60	5	14	17.5	25.5	17	0	14.5	14	11.5	0.5	4	19	13	4	10.5	3	0	69	6	11.5	11	Festuca ovina 	Festuca pratensis	Medicago lupulina	20	10	15	N	Y
+2021	summer	A66	60	2	9	17.5	3	17	0	7.5	16.5	0	2	8.5	13	9	11	11.5	12.5	33	15.5	12	4	0	Festuca ovina	Petroraghia prolifera	Seculigera varia	15	10	20	N	N
+2021	summer	A67	65	5	3	0	9.5	44	3	10	0	0	31	5.5	0.5	7.5	5	8	12	0	5	0	34	0	Festuca ovina	Petroraghia prolifera	Erigeron annuus	15	5	5	N	Y
+2021	summer	A68	95	2	14	13	5.5	2	11	10.5	13	7.5	8	8.5	4	4.5	10.5	7	6.5	3	0	6.5	9.5	23	Festuca ovina	Agrostis stolonifera	Medicago lupulina	30	15	20	N	Y
+2021	summer	A69	75	5	5	2	6.5	6.5	1	0	7.5	7	3	4	3	2.5	0	3	0	0	4	18	20.5	5.5	Festuca ovina	Medicago lupulina 	Petroraghia prolifera	15	20	10	N	Y
+2021	summer	A70	98	5	0	25	5	2.5	0	4.5	4	1	7.5	7	15	4	4.5	5	4	2.5	6	2	11	7	Trifolium repens	Medicago lupulina	Elymus repens	20	20	15	N	Y
+2021	summer	A71	95	15	0	6	6.5	4	4	4	3	3	4	4.5	3	2.5	4	7.5	1.5	5	5	4	4.5	2.5	Agrostis gigantea	Holcus lanatus	Festuca ovina	30	20	10	N	Y
+2021	summer	A72	60	5	0	13.5	76	31.5	7	0	0	0.5	9.5	13	16	17	0	0	12.5	8	11	15.5	15	21	Festuca ovina	Elymus repens	Agrostis gigantea 	10	10	5	N	Y
+2021	summer	A73	75	5	0.5	7.5	3	3.5	7	0	16	7	5.5	6	0	13	1	1.5	12.5	10	17	4	0	0	Festuca ovina	Erigeron annuus	Lotus corniculatus	10	20	10	N	Y
+2021	summer	A74	80	0	9.5	23.5	3	9.5	0.5	1	58	0	25.5	9	10	44	8.5	52	1.5	11	11	4.5	7	13	Festuca ovina	Equisetum arvense	Elymus repens	20	20	5	N	Y
+2021	summer	A75	65	5	0	11	4	9	4.5	0	5.5	0	22.5	5	0	13	6.5	19	22.5	4	6	8.5	8	0	Carex sp	Trifolium pratense 	Erigeron annuus	10	20	10	N	Y
+2021	summer	A76	75	3	11	7	6.5	0	6.5	9	5	9	4.5	0	3	4.5	4	2	8.5	0	7	0	1	9	Equisetum arvense 	Lotus corniculatus	Medicago lupulina 	10	20	5	N	Y
+2021	summer	A77	85	15	5.5	2.5	14	0.5	4	1.5	2	0.5	7	0	16	0	8	4.5	5	4	4.5	3.5	0.5	6	Erigeron annuus 	Festuca ovina	Crepis vesicaria 	10	3	20	N	Y
+2021	summer	A78	95	10	3.5	5	7	5	19.5	28	8.5	5.5	18	19	0	5.5	28.5	4	2.5	22	12	3	8.5	11	Festuca ovina 	Medicago lupulina 	Bromes hordaceous	50	30	5	N	Y
+2021	summer	A79	90	25	3	4.5	5	1.5	2	2	1	2.5	25	2	5	0	4	2.5	2.5	3	2.5	5.5	8	4	Medicago lupulina	Plantago lanceolata 	Festuca ovina	20	10	5	N	Y
+2021	summer	A80	30	5	0	3.5	2	6.5	0	4.5	1	0.5	4.5	0	0	8	3.5	2	1.5	1	0	6	15.5	7	Myosotis arvense 	Medicago lupulina	Origanium vulgare 	5	10	8	N	N
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
+																																
